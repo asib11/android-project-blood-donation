@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/color_primary.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/header_background.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/ic_mail.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/ic_number.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/navigation_selector.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_category_selected.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_donor_registration.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_login.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_recipient_registration.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_select_registration.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_sent_email.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/activity_splash_screen.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/header.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/notification_item.xml" value="0.1" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/output_layout.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/layout/user_displayed_layout.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/bappi/AndroidStudioProjects/BDA/app/src/main/res/menu/main_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
